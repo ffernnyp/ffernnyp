@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AREEYAPON , Fern <image src = "https://cdn-icons-png.flaticon.com/512/6997/6997662.png" target = "iconprofile" width = "20" height = "20"</h1>
+<h1 align="center">Hi 👋, I'm AREEYAPON , Fern <image src = "https://cdn-icons-png.flaticon.com/512/6997/6997662.png" target = "iconprofile" width = "30" height = "30"</h1>
 <h3 align="center">sometimes coding somtimes drawing</h3>
 
 - 📫 How to reach me **areeyapornchotising@gmail.com**
