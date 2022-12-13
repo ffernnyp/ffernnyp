@@ -24,6 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </p>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernnyapxrn&show_icons=true&locale=en&layout=compact" alt="fernnyapxrn" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&" alt="fernnyapxrn" /></p>
