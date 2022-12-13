@@ -24,4 +24,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&" alt="fernnyapxrn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&" alt="fernnyapxrn" />  
+  <img src="https://cdn-icons-png.flaticon.com/512/4288/4288976.png" alt="pic" width="80" height="80"/> </a> </p>
