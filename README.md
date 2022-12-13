@@ -25,4 +25,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&" alt="fernnyapxrn" />  
-  <img src="https://cdn-icons-png.flaticon.com/512/4288/4288976.png" alt="pic" width="800" height="800"/> </a> </p>
+  <img src="https://cdn-icons-png.flaticon.com/512/4288/4288976.png" alt="pic" width="500" height="500"/> </a> </p>
