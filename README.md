@@ -33,8 +33,8 @@
 ---
 
 <h3>My Stats 🔥:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolptd&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="dolptd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernnyapxrn&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="fernnyapxrn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolptd&show_icons=true&locale=en&theme=radical" alt="dolptd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernnyapxrn&show_icons=true&locale=en&theme=radical" alt="fernnyapxrn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dolptd&&theme=tokyonight" alt="dolptd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&&theme=tokyonight" alt="fernnyapxrn" /></p>
