@@ -31,6 +31,7 @@
 </p>
 
 ---
+<h3 align="left">Now Playing :</h3>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3152xyofupfatrqg3oey4xxvlqau&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>My Stats 🔥:</h3>
