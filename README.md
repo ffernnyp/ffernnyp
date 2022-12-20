@@ -33,7 +33,7 @@
 ---
 
 <h3>My Stats 🔥:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolptd&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="dolptd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolptd&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="dolptd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolptd&show_icons=true&locale=en&theme=radical" alt="dolptd" /></p>
 
