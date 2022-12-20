@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AREEYAPON FERN <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
 <h3 align="center">BAIFERN LOVE MEOW MEOW</h3>
 
-<h3 align="left">Now Playing :</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3152xyofupfatrqg3oey4xxvlqau&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <div id="header" align="center">
   <img src= "https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" width ="1000" height="300"/>
 </div>
@@ -35,6 +31,10 @@
 </p>
 
 ---
+
+<h3 align="left">Now Playing :</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3152xyofupfatrqg3oey4xxvlqau&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>My Stats 🔥:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernnyapxrn&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="fernnyapxrn" /></p>
