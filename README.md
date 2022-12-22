@@ -2,7 +2,7 @@
 <h3 align="center">BAIFERN LOVE MEOW MEOW</h3>
 
 <div id="header" align="center">
-  <img src= "https://i.pinimg.com/originals/38/9c/72/389c72c768a0564a1287b9f6627942ea.gif" width ="1000" height="300"/>
+  <img src= "https://i.pinimg.com/originals/c2/39/6c/c2396c93261708302148b3a92c38fdcb.gif" width ="1000" height="300"/>
 </div>
 
 ---
