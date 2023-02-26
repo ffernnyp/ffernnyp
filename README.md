@@ -7,7 +7,7 @@
 
 ---
 
-- 👩‍💻 I’m  : **IT STUDENT AT  King Mongkut's University of Technology Thonburi **
+- 👩‍💻 I’m  : ** It Stuent at King Mongkut's University of Technology Thonburi **
 
 - 📫 How to reach me : **areeyapornchotising@gmail.com**
 
