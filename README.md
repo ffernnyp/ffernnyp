@@ -2,7 +2,7 @@
  --- 
   
 <div id="header" align="center">
-  <img src= "https://github.com/fernnyapxrn/fernnyapxrn/blob/main/Profile.png" width ="1000" height="280"/>
+  <img src= "https://github.com/fernnyapxrn/fernnyapxrn/blob/main/Profile.png" width ="1000" height="400"/>
 </div>
 
 ---
