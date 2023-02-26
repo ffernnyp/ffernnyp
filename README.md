@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm AREEYAPON CHOTISING , FERN 😃
+<h1 align="center">Hi! I'm AREEYAPON CHOTISING , FERN 😃 </h1>
 
  --- 
   
