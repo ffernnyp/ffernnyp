@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm AREEYAPON FERN <img src="https://cdn-icons-png.flaticon.com/512/763/763704.png" alt="javascript" width="30" height="30"/></h1>
+<h1 align="center">Hi👋 I'm AREEYAPON CHOTISING , FERN 😃
 
+ --- 
+  
 <div id="header" align="center">
   <img src= "https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif" width ="1000" height="400"/>
 </div>
