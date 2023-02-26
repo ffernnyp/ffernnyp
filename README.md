@@ -36,7 +36,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3152xyofupfatrqg3oey4xxvlqau&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>My Stats 🔥:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernnyapxrn&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="fernnyapxrn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernnyapxrn&show_icons=true&locale=en&theme=radical" alt="fernnyapxrn" /></p>
 
