@@ -11,8 +11,6 @@
 
 - 📫 How to reach me : **areeyapornchotising@gmail.com**
 
-- 😂 Fun fact : **I AM POOR MEOW**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   
