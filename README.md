@@ -36,6 +36,6 @@
 
 <h3>My Stats 🔥:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernnyapxrn&show_icons=true&locale=en&theme=radical" alt="fernnyapxrn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernnyapxrn&show_icons=true&locale=en&theme=dracula" alt="fernnyapxrn" width="500"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&&theme=synthwave" alt="fernnyapxrn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernnyapxrn&&theme=synthwave" alt="fernnyapxrn" width="500"/></p>
