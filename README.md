@@ -1,12 +1,4 @@
 
- --- 
-  
-<div id="header" align="center">
-  <img src= "https://github.com/fernnyapxrn/fernnyapxrn/blob/main/coverprofile.png" width ="1000" height="180"/>
-</div>
-
----
-
 - 👩‍💻 I’m  : **IT STUDENT AT KING MONKUT'S UNIVERSITY OF TECHNOLOGY THONBURI**
 
 - 📫 How to reach me : **areeyapornchotising@gmail.com**
